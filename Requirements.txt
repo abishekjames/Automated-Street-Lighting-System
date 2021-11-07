@@ -1,0 +1,11 @@
+Hardware requirements:
+1.Arduino UNO
+2.LED
+3.LCD Display
+4.I2C Module
+5.LDR
+6.Jumper Wires
+7.Bread board
+
+Sotware requirements:
+Arduino IDE
