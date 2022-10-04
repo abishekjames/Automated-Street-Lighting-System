@@ -27,3 +27,6 @@ Automated Street lighting system is a simple and powerful concept. It automatica
 
 **Front End Support:** <br />
 The whole system will have arduino which is an open-source microcontroller. The language used for the front end development will be C programming.
+
+**Project image** <br />
+https://github.com/abishekjames/Automated-street-lighting-system/blob/main/Project%20images/Final.jpeg
