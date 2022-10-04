@@ -23,7 +23,7 @@ So, along with unnecessary light pollution, this practice causes damage to our p
 * Arduino IDE.
 
 **Working Description:** <br />
-Automated Street lighting system is a simple and powerful concept. It automatically switches on lights when the sunlight goes below the visible region of our eyes. It automatically switches off lights when sunlight fall on it by using a sensor called LDR which senses the light just like our eyes.
+Automated Street lighting system is a simple and powerful concept.  LDR module generates its output depending upon the light that falls on its upper surface. During the daytime, the sunlight falls on LDR so the LED's are off, and after sunset, there is no source of bright light so the LED's are turned on.
 
 **Front End Support:** <br />
 The whole system will have arduino which is an open-source microcontroller. The language used for the front end development will be C programming.
