@@ -8,18 +8,22 @@ The energy consumption in entire world is increasing at the fastest rates due to
 
 So, along with unnecessary light pollution, this practice causes damage to our planet too.The streetlight automated system is a cost effective and the safest way to reduce power consumption. It helps us to get rid of today’s world problems of manual switching. If we use automated street light system and implement it in our society it will be helpful in saving large amount of electricity.
 
-Hardware Requirements:
-1.Arduino UNO.
-2.LED.
-3.LDR.
-4.Resistor 10K ohm.
-5.Jumper wires.
-6.Breadboard.
-7.LCD Display.
-8.I2C Module.
+**Hardware Requirements:**
+-Arduino UNO.
+-USB cable.
+-LED.
+-LDR.
+-Resistor 10K ohm.
+-Jumper wires.
+-Breadboard.
+-LCD Display.
+-I2C Module.
 
-Software Requirements:
+**Software Requirements:**
 Arduino IDE
 
-Working Description:
+**Working Description:**
 Automated Street lighting system is a simple and powerful concept. It automatically switches on lights when the sunlight goes below the visible region of our eyes. It automatically switches off lights when sunlight fall on it by using a sensor called LDR which senses the light just like our eyes.
+
+**Front End Support:**
+The whole system will have arduino which is an open-source microcontroller. The language used for the front end development will be C programming.
